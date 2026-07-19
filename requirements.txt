@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 joblib
-tensorflow-cpu
+tensorflow==2.14.0
 plotly
